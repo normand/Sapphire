@@ -1,2 +1,4 @@
 Sapphire
 ========
+
+By Stephen Normand
